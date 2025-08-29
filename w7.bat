@@ -5,7 +5,7 @@ setlocal ENABLEDELAYEDEXPANSION
 
 echo.
 echo =====================================
-echo     Windows 11 Activation Script
+echo     Windows 7 Activation Script
 echo =====================================
 echo.
 echo - Windows 7 Professional
