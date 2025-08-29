@@ -8,7 +8,6 @@ echo =====================================
 echo     Windows 11 Activation Script
 echo =====================================
 echo.
-echo # Supported products:
 echo - Windows 7 Professional
 echo - Windows 7 Professional N
 echo - Windows 7 Professional E
